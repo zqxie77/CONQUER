@@ -4,7 +4,7 @@
 
 This repository contains the PyTorch implementation for the paper [CONQUER: CONTEXT-AWARE REPRESENTATION WITH QUERY ENHANCEMENT FOR TEXT-BASED PERSON SEARCH]. Our work introduces a two-stage framework designed to address the challenges of cross-modal discrepancies and ambiguous user queries in Text-Based Person Search.
 
-**Official Source Code**: [https://github.com/zqxie77/CONQUER](https://github.com/zqxie77/CONQUER) [cite: 11]
+**Official Source Code**: [https://github.com/zqxie77/CONQUER](https://github.com/zqxie77/CONQUER)
 
 ### News!
 
