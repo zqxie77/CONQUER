@@ -8,8 +8,9 @@ This repository contains the PyTorch implementation for the paper [CONQUER: CONT
 
 ### News!
 
-* **[2025-09-20]** Code and pre-trained models have been released!
-
+* **[2026-01-25]** 🎉 **CONQUER** has been accepted by **ICASSP 2026**!
+* **[2025-09-20]** Code and pre-trained models have been released.
+  
 ### CONQUER Framework
 
 Unlike existing methods that perform a direct search using the original text query, the CONQUER framework improves the query at inference time without needing to retrain the backbone model. The process begins by finding a relevant anchor image. A Multimodal Large Language Model (MLLM) then learns key visual details from this image through a Q&A process. Finally, these details are fused with the original text to create an improved query that is used to re-rank the search results. This is all supported by the training phase, where the Context-Aware Representation Enhancement (CARE) module learns robust cross-modal embeddings.
@@ -33,7 +34,7 @@ We evaluate our model on three widely-used TBPS benchmarks
 
 ### Stage 1: Training the CARE Module
 
-To train a new CONQUER model from scratch, run the following script. [cite_start]This stage trains the Context-Aware Representation Enhancement (CARE) module to learn robust cross-modal embeddings[cite: 37].
+To train a new CONQUER model from scratch, run the following script. This stage trains the Context-Aware Representation Enhancement (CARE) module to learn robust cross-modal embeddings.
 
 ```bash
 sh run_CONQUER.sh
@@ -44,3 +45,4 @@ To perform inference and evaluate a trained model, run the following script. Thi
 ```bash
 sh run_IQE.sh
 ```
+
