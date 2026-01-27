@@ -46,3 +46,17 @@ To perform inference and evaluate a trained model, run the following script. Thi
 sh run_IQE.sh
 ```
 
+### Citation
+If you find this work useful in your research, please consider citing:
+```bash
+@misc{xie2026conquercontextawarerepresentationquery,
+      title={CONQUER: Context-Aware Representation with Query Enhancement for Text-Based Person Search}, 
+      author={Zequn Xie},
+      year={2026},
+      eprint={2601.18625},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={[https://arxiv.org/abs/2601.18625](https://arxiv.org/abs/2601.18625)}, 
+}
+```
+
