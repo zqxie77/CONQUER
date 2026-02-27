@@ -1,4 +1,8 @@
 # CONQUER: CONTEXT-AWARE REPRESENTATION WITH QUERY ENHANCEMENT FOR TEXT-BASED PERSON SEARCH
+[![arXiv](https://img.shields.io/badge/arXiv-2601.18625-b31b1b.svg)](https://arxiv.org/abs/2601.18625)
+[![Project Page](https://img.shields.io/badge/GitHub-CONQUER-181717.svg)](https://github.com/zqxie77/CONQUER)
+
+**Paper**: https://arxiv.org/abs/2601.18625
 
 ## Introduction
 
