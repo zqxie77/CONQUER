@@ -92,4 +92,6 @@ ER  -
 ```
 
 **IEEE Style:**
+```
 C. Zeng, Y. Duan, Z. Xie and X. Han, "CONQUER: Context-Aware Representation with Query Enhancement for Text-Based Person Search," ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 12867-12871, doi: 10.1109/ICASSP55912.2026.11461248.
+```
